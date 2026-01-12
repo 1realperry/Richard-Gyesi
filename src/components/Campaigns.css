@@ -188,18 +188,21 @@
     background: rgba(0, 0, 0, 0.8);
     z-index: 1000;
     backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
 }
 
 .modal-container {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    position: relative;
     z-index: 1001;
-    width: 90%;
+    width: 100%;
     max-width: 700px;
     max-height: 90vh;
     overflow-y: auto;
+    margin: 0;
+    /* Transformation handled by Framer Motion only */
 }
 
 .modal-content {

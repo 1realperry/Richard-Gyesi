@@ -129,19 +129,22 @@ export const skills = [
     { name: "Project Management", category: "Leadership", level: 80 },
     { name: "Client Relations", category: "Leadership", level: 90 },
     { name: "Strategic Planning", category: "Leadership", level: 85 },
-    // Technical/Marketing Skills
-    { name: "Social Media Marketing", category: "Marketing", level: 95 },
-    { name: "Content Strategy", category: "Marketing", level: 90 },
-    { name: "SEO/SEM", category: "Marketing", level: 80 },
-    { name: "Email Marketing", category: "Marketing", level: 75 },
-    { name: "Influencer Marketing", category: "Marketing", level: 90 },
-    { name: "Brand Development", category: "Marketing", level: 85 },
-    // Computer/Tools Skills
-    { name: "Adobe Creative Suite", category: "Tools", level: 80 },
-    { name: "Canva", category: "Tools", level: 95 },
-    { name: "Meta Business Suite", category: "Tools", level: 90 },
-    { name: "Google Analytics", category: "Tools", level: 85 },
-    { name: "Microsoft Office", category: "Tools", level: 90 }
+
+    // Technical Skills
+    { name: "Digital Marketing", category: "Technical", level: 95 },
+    { name: "Glims", category: "Technical", level: 85 },
+    { name: "LinkedIn", category: "Technical", level: 90 },
+    { name: "Data Analysis", category: "Technical", level: 80 },
+    { name: "E-commerce", category: "Technical", level: 85 },
+
+    // Computer Skills
+    { name: "Microsoft Office", category: "Computer Skills", level: 90 },
+    { name: "SPSS", category: "Computer Skills", level: 80 },
+    { name: "Adobe Photoshop", category: "Computer Skills", level: 85 },
+
+    // Tools (Keeping some existing ones if relevant, or merging)
+    { name: "Canva", category: "Computer Skills", level: 95 },
+    { name: "Google Analytics", category: "Technical", level: 85 }
 ];
 
 export const experience = [

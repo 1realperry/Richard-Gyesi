@@ -4,7 +4,7 @@ import './About.css';
 
 const About = () => {
     // Placeholder profile image - update with Richard's actual photo URL
-    const profileImageUrl = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face";
+    const profileImageUrl = "https://media.licdn.com/dms/image/v2/D4D03AQGAPlftKRMnPg/profile-displayphoto-shrink_200_200/B4DZPjt0rkHwAY-/0/1734692262486?e=1769644800&v=beta&t=WXxrVAq5OnzJRinfIxF0g4Yqz7CU-jGsILpRzGerCJo";
 
     return (
         <section id="about" className="about-section">
