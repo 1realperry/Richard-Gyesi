@@ -34,7 +34,7 @@ export const personalDetails = {
         },
         {
             platform: "Instagram",
-            url: "https://www.instagram.com/_elevatemkt?utm_source=qr",
+            url: "https://www.instagram.com/gyesi_5?igsh=N2dodHUwdHdoOTB3&utm_source=qr",
             icon: Instagram
         }
     ]
