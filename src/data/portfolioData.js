@@ -24,17 +24,17 @@ export const personalDetails = {
     socials: [
         {
             platform: "LinkedIn",
-            url: "https://www.linkedin.com/in/richardgyesi",
+            url: "https://www.linkedin.com/in/richard-gyesi-b2a002302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
             icon: Linkedin
         },
         {
             platform: "X (Twitter)",
-            url: "https://x.com/richardgyesi",
+            url: "https://x.com/gyesix?s=11",
             icon: Twitter
         },
         {
             platform: "Instagram",
-            url: "https://instagram.com/richardgyesi",
+            url: "https://www.instagram.com/_elevatemkt?utm_source=qr",
             icon: Instagram
         }
     ]
